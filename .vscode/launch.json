@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/SUBESH/Desktop/assignments/Day-3",
-      "program": "c:/Users/SUBESH/Desktop/assignments/Day-3/build/Debug/outDebug",
+      "cwd": "c:/Users/SUBESH/Desktop/assignments/Day-1",
+      "program": "c:/Users/SUBESH/Desktop/assignments/Day-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
