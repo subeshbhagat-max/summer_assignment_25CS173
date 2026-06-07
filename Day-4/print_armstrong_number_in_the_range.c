@@ -11,9 +11,8 @@ int main()
         temp=i;
         sum=0;
         digit=(int)log10(i)+1;
-        
         while (temp!=0)
-        {
+        {    
             remain=temp%10;
             sum+=pow(remain,digit);
             temp/=10;
